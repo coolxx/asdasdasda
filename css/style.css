@@ -25,7 +25,7 @@ height: 35px;
 position: relative;
 background:#1e1e1e;
 z-index: 1;}
-.zg_hl{position:absolute;width:20%;left:3.2%;top:3px;}
+.zg_hl{position:absolute;width:20%;left:3.2%;top:2px;}
 .zg_hr{position:absolute;width:28.5%;right:1%;top:10px;}
 .zg_m1_con{background:#fff;width:99%;margin:0 0.5%;padding:2% 0 2.5%;border-radius:5px;}
 .m1_tit img{display:block;margin:2% auto 2.5%;}
@@ -101,7 +101,7 @@ display: block;
 60%{-moz-transform:translateY(-5px)}}
 
 @media screen and (min-width:320px) and (max-width:480px){
-.zg_hl{top:14px;width:25%;}
+.zg_hl{top:4px;width:25%;}
 .zg_hr{width:40%;}
 .zg_m1_te{font:0.875rem/1.5rem "Microsoft Yahei";padding:3% 4% 4% 16%;width:73%}
 .zg_m1_te b{font:bold 0.875rem/1.5rem "Microsoft Yahei";}
